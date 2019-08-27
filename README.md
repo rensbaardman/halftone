@@ -2,6 +2,30 @@
 
 A simple (and in the future hopefully more complete) python utility to convert an image into a halftone image (and export it in either .png or .svg).
 
+
+### Example
+
+<figure style="display:inline-block">
+	<img src = 'docs/lena.png' height = '256px'>
+	<figcaption>Original (512px x 512px)</figcaption>
+</figure>
+
+<figure style="display:inline-block">
+	<img src = 'docs/lena-out-8.png' height = '256px'>
+	<figcaption>Blocksize: 8px</figcaption>
+</figure>
+
+<figure style="display:inline-block">
+	<img src = 'docs/lena-out-16.png' height = '256px'>
+	<figcaption>Blocksize: 16px</figcaption>
+</figure>
+
+<figure style="display:inline-block">
+	<img src = 'docs/lena-out-32.png' height = '256px'>
+	<figcaption>Blocksize: 32px</figcaption>
+</figure>
+
+
 ### Usage
 
 ```
