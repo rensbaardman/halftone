@@ -25,6 +25,10 @@ A simple (and in the future hopefully more complete) python utility to convert a
 	<figcaption>Blocksize: 32px</figcaption>
 </figure>
 
+<figure style="display:inline-block">
+	<img src = 'docs/lena-combined.png' height = '256px'>
+	<figcaption>Combined</figcaption>
+</figure>
 
 ### Usage
 
